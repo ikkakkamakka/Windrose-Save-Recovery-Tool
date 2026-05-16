@@ -1,0 +1,11 @@
+2026-05-16 15:37:19,380 [windrose.validator] INFO: Validating: C:\Users\ikkak\Downloads\5DEA3DF65FFE4F8BD79E0600FB6EE96D\5DEA3DF65FFE4F8BD79E0600FB6EE96D
+2026-05-16 15:37:19,380 [windrose.validator] DEBUG: CURRENT → MANIFEST-783584 (OK)
+2026-05-16 15:37:19,383 [windrose.validator] DEBUG: SST files: 90 total
+2026-05-16 15:37:19,384 [windrose.validator] DEBUG: WorldDescription.json: valid JSON
+2026-05-16 15:37:19,398 [windrose.validator] INFO: RocksDB open test: PASSED
+2026-05-16 15:37:35,748 [windrose.backup] INFO: Creating backup: C:\Users\ikkak\Downloads\5DEA3DF65FFE4F8BD79E0600FB6EE96D\5DEA3DF65FFE4F8BD79E0600FB6EE96D → C:\Users\ikkak\Downloads\Backups\2026-05-16_15-37-35\5DEA3DF65FFE4F8BD79E0600FB6EE96D
+2026-05-16 15:37:35,831 [windrose.backup] INFO: Backup verified: 102 files copied
+2026-05-16 15:37:35,883 [windrose.backup] DEBUG: Wrote backup manifest: C:\Users\ikkak\Downloads\Backups\2026-05-16_15-37-35\BACKUP_MANIFEST.txt
+2026-05-16 15:37:35,954 [windrose.recovery] INFO: Removed C:\Users\ikkak\Downloads\5DEA3DF65FFE4F8BD79E0600FB6EE96D\5DEA3DF65FFE4F8BD79E0600FB6EE96D_Recovered\LOCK
+2026-05-16 15:37:35,955 [windrose.recovery] DEBUG: CURRENT is intact, no rebuild needed
+2026-05-16 15:37:36,062 [windrose.recovery] INFO: RocksDB repair() succeeded on C:\Users\ikkak\Downloads\5DEA3DF65FFE4F8BD79E0600FB6EE96D\5DEA3DF65FFE4F8BD79E0600FB6EE96D_Recovered
